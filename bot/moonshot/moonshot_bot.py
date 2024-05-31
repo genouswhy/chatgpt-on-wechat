@@ -91,7 +91,7 @@ class MoonshotBot(Bot):
             headers = {
                 "Content-Type": "application/json",
                 # "Authorization": "Bearer " + self.api_key
-                "Authorization": "Bearer " + "sk-LOWV1cgxZAGCpQcVT0ESg8upONwAI91R3CbooY3G5f8xb3Gq"
+                "Authorization": "Bearer " + "sk-RKqvGCHsshhqOcbTBd2y0FZBmGJzQON14Rw93nLPOLmxX0lW"
 
             }
             body = args

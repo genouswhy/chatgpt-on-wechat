@@ -12,7 +12,7 @@ class Session(object):
         # else:
         #     self.system_prompt = system_prompt
         # 从system_prompt.txt文件读取
-        with open('system_prompt.txt', 'r', encoding='utf-8') as f:
+        with open('system_prompt.md', 'r', encoding='utf-8') as f:
             self.system_prompt = f.read()
 
 

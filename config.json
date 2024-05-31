@@ -1,7 +1,7 @@
 {
   "channel_type": "wx",
-  "model": "moonshot-v1-128k",
-  "open_ai_api_key": "sk-LOWV1cgxZAGCpQcVT0ESg8upONwAI91R3CbooY3G5f8xb3Gq",
+  "model": "moonshot-v1-32k",
+  "open_ai_api_key": "",
   "claude_api_key": "YOUR API KEY",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
