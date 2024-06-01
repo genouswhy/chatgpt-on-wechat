@@ -22,7 +22,15 @@
 * treasure是一个游戏平台，magic是treasure这个平台的治理代币
 
 # 玩家总结的经验
-## 升级的经验
+## 进化后zee的特点
+* 鲨鱼获得隐身技能，100%回避敌方攻击，比泡泡的盾好用，泡泡的盾只能挡一次攻击，而且泡泡的盾会被DOT破掉，鲨鱼的隐身运气好的话，可以把对方一整轮攻击、技能都骗掉，四攻鲨鱼是最适合进化的
+* 火锅获得AOE技能，并且能将50%的伤害转化为盾的血量，结合原来的嘲讽技能，可以将盾的血量越叠越多，攻守兼备，虽然加攻和加血都有利于增加盾的血量，但加防是最好的，因为加防能直接提高盾的硬度，对嘲讽和AOE技能产生的盾都有作用，所以四防火锅是最适合进化的，当然四血或者四攻也是可以的
+* 蜜蜂获得致盲技能，这个debuff不但可以让敌方有30%概率Miss，而且会有两回合的DOT，DOT伤害值非常高，可造成700左右的伤害，过于imba，导致大家觉得未来可能会被削弱，由于蜜蜂的群体回复的血量是按其自身的最大血量来计算的，所以四血蜜蜂是最适合进化的
+* 泡泡获得下毒技能，中毒的敌人若被奶，反而会扣血，这在集火敌人时很好用，防止对方被奶，不过中毒状态可以被蜜蜂的加血技能清除，而且是先清除中毒，再加血，所以下毒对于蜜蜂的回复来说是无效的，另外，泡泡的回复技能的血量被大幅削弱，导致前期很多练了泡泡的玩家都很难过，甚至不愿意进化
+* 绿龙获得蛇盾技能，盾的血量按最大血量的50%计算，所以四血绿龙是最适合进化的，另外盾牌如果没被打掉，其剩余血量会作为AOE释放给敌人，所以如果对面敌人数量越少，单体承受的伤害就越多
+* 野猪的新技能可以把反弹伤害变为回复量或单体伤害，而反弹伤害又恰好是嘲讽时野猪所受伤害，所以如果采用三野猪，轮流嘲讽，并轮流将反弹伤害给自身回复，可以形成一个几乎不掉血的阵容，从而慢慢把敌人磨死，特别适合高层熔炉，四血和四防野猪都适合进化
+
+## 升级的所需时间和vee
 zee升级所需的时间和vee：
 升到20级：需要8 days 7 hours，23176 vee
 升到30级：需要25 days 20 hours，86400 vee
@@ -59,10 +67,10 @@ zee升级所需的时间和vee：
 5. 如果没有锁血头盔，难度会比较大，但也不是完全没希望，需要一些运气和耐心，比如碰到水系加强或者减CD的礼拜，问题也不大；但在敌方+30%攻击的礼拜，锁血头盔是必须的
 
 ## 以下是有关zee进化的教程
-1. 转三只 50级的zee到treasure钱包，一只进化，两只献祭，三只zee必须是同系
+1. 转三只50级的zee到treasure钱包，只要到50级即可，无需50级下的满经验，一只进化，两只献祭，三只zee必须是同系
 2. 转15W链上的vee到treasure钱包，作为进化的费用，注意不要多转，treasure钱包我们没有私钥
 3. 进游戏(我用的是安卓版，网页版进化会报错)，连接treasure钱包，点击地牢门口三个传奇蛋边上的NPC，此时如果treasure钱包连接正常，应该可以看到三只 50级zee和15W的vee
-4. 把想进化的zee放最上面，献祭的两只放下面，点进化，进化后的zee会保留之前的属性加点了
+4. 把想进化的zee放最上面，献祭的两只放下面，点进化，进化后的zee会保留之前的星星和属性加点，并升级至51级，同时DMG DEF HP都会提升10%
 5. 一段炫酷的动画后，进化后的zee会出现在treasure钱包里，但有5小时冷却时间才能玩，你也可以点击进化后的zee，有个TRANFER按钮，转移到自己的钱包，此时冷却时间会变成12小时
 
 ## 以下是有关harvester质押magic的教程：
@@ -82,6 +90,68 @@ zee升级所需的时间和vee：
 # FAQ
 Q: 游戏内的zee或者装备withdraw之后，钱包里看不到怎么办？
 A: 先确认链上有没有执行ERC721的交易，类似下面这种从黑洞到你地址的zee转账，如果没有，就要开票了，如果有，那就是钱包显示问题，可以去opensea或者其他NFT交易所刷新看看
+
+
+# 最新游戏公告
+## 收割机捐赠
+To organize this campaign for Zeeverse and Treasure DAO community, we had to come up with a fair and inclusive system for all participants - seasoned Zeeverse players and players who were completely new to the game. 
+As a testament to our commitment, we introduced a brand new competitive scene in Zeeverse for the first time. Despite rigorous testing, we did encounter some issues that affected the overall experience. 
+We build, and sometimes, things break.
+
+It's no secret that Harvester will play an important role in the success of Zeeverse and its economy.
+Harvester contributors are contributors to the Zeeverse project, and therefore, they should also be exposed to the success of Zeeverse.
+
+It's also no secret that we have a $ZEEV TGE listing this year. $ZEEV will directly reflect the value of the ecosystem and will grow together with Zeeverse.
+
+I believe it a fair incentive and commitment alignment that contributors of Harvester should be included into upcoming $ZEEV airdrop.
+
+Therefore, I would like to announce that Zeeverse Harvester contributors will be included in the upcoming $ZEEV airdrop and will have full support from the Zeeverse team. 
+
+To prepare for the launch of Zeeverse Harvester, we are setting up a Community Wallet, which will be optimized to maintain the Harvester, boost emissions, and capture most of the rewards for contributors.
+
+Community Wallet - 0x4d3Cb2F6B1b73578C07c630F55A89D433722Bc06
+Community Wallet will accept $MAGIC, ETH, Boosters, and Zeeverse items as a contribution.
+
+Community Wallet is a way to support Zeeverse and Zeeverse Harvester directly with or without active participation in Harvester and be part of $ZEEV launch in return.
+
+Along with participation in Community Wallet and Harvester, I encourage you to join Harvester Channel ⁠🧺・harvester-chat  to organize, learn, and discuss everything related to Harvester and Community Wallet.
+
+A lot of big updates and announcements are coming to Zeeverse, and I can assure you we are just getting started.
+
+Shamans, today at 2024年4月25日晚上11点00分  Emberwing will be born and will take the place of Afarit harvester.
+
+In order to use Emberwing effectively, we have to take good care of it and maintain it. This requires an active contribution from community.
+
+Contribution to Emberwing also contributes to Zeeverse, which is the reason why we will include Emberwing contributors in the coming $ZEEV airdrop.
+
+:shard: Corruption removal: An item burned or donated to the wallet gets points based on its rarity. (Higher rarity = higher corruption removed) 
+
+1x Common Item: 400 COR removed (edited)
+1x Rare Item: 2000 COR removed
+1x Epic Item: 12,000 COR removed
+1x Legendary Item: 150,000 COR removed
+
+:shard: Boosting: A Metabolic Booster (MB) donated or used in Emberwing rewards points based on its rarity. Sending $MAGIC or ETH is equivalent; we will buy $VEE and add liquidity to Magicswap to craft boosters using LP tokens. 
+
+To compensate for the extra harvester that was kept alive during the event, Treasure will provide the winning harvesters with additional special boosters.
+
+✨ Zeeverse, as an event organizer, will receive the most powerful Metabolic Booster, the Overclocked Booster, which targets 35% uptime. 
+Contributions are expected to provide the remaining Boosters.
+
+:shard: Corruption throwing: $COR can be donated to Community Wallet or used directly if we find ourselves at war with other harvesters. Points for contribution will be awarded accordingly.
+
+:shard: (Special) Wallet Boosting: Sending Zees to wallet will help boost community staked permits if we decide to do it. Based on level you will recieve points. Higher level =higher boost in harvester. 
+
+All points collected will reward contributors in airdrop on a pro-rata. 
+
+What we don’t reward is staking and not contributing. 
+
+To make it fair to early supporters, we will add extra % points based on the date of action (Donation or action performed in harvester). As time goes on, the extra % will go down until % reaches a baseline.
+
+Community Wallet - 0x4d3Cb2F6B1b73578C07c630F55A89D433722Bc06 
+Community Wallet accepts $MAGIC, ETH, Metabolic Boosters (MB), Zeeverse Items, and ZEEs as a contribution. 
+
+
 
 # 以下是最新的游戏更新内容
 ## Features:
@@ -370,6 +440,120 @@ Buy them in-game for 10,000 $VEE (Yep, we discounted them for 50%)
 Get 3 free Corn Loot Pods when you mint a Seasonal Soul Shard
 Or purchase them from our Discord Voxel store for 7,500 Voxels
 This is just the beginning of your skilling journey in Zeeverse, and we’re keen to hear what you think. Share your experiences, thoughts, and anything else with us — we’re listening!
+
+
+### NFTs & Tokens
+In the Spirit Realm of Zeeverse, Shamans are awakening to a cosmic shift, heralding a new era. This realm, a haven for wandering souls, is filled with mystical artefacts, offering the keys to shaping destinies. These powerful relics, far beyond mere trinkets, unlock the mysteries of an enigmatic world rich with ancient lore.
+
+Genesis Masks — The Cornerstone of Your Journey
+
+Zeeverse Genesis Masks
+Chain: Ethereum
+Standard: ERC-721
+Marketplace: Opensea, Treasure
+
+At the heart of the Zeeverse narrative, Genesis Masks are the cornerstone of the entire ecosystem. Initially bestowed upon the earliest players, these Masks are paramount in a Shaman’s journey and offer significant benefits:
+
+Free or Priority mint access to all Zeeverse collections.
+Increased $VEE token gains from Quests and Dungeons.
+Enhanced XP gains in Dungeons.
+Guaranteed $ZEEV Governance Token allocation.
+Special access in the Zeeverse Discord community.
+Exclusive in-game wearables.
+Influence in Mask DAO (TBA).
+In the unfolding story of the Strange New World (the upcoming Zeeverse Land Sale), the role of your Genesis Mask will evolve to become a crucial component in Tribal gameplay.
+
+When you stake your Mask onto a Land, it not only begins to share its Blessings among all your Tribe members, but also qualifies your Tribe for a claim in the Seasonal Zeeverse Reward Pool through the Tribe War.
+
+Additionally, the in-game advantages (Blessings) bestowed upon your Tribe members will be intricately linked to the distinct traits of your Genesis Mask, further deepening the connection between your Mask’s legacy and your Tribe’s destiny in Zeeverse.
+
+
+Sinoru Nation, Chayara Nation, and Takanuwa Nation Genesis Masks
+Staking: Your Path to Enhanced Gameplay and Rewards
+Staking your Genesis Mask is a strategic step towards earning Zeeverse Governance Tokens ($ZEEV), amplifying your Shaman’s in-game abilities, and integrating your journey with the realm’s evolving narrative.
+
+The soft-staking mechanism unlocks your in-game benefits and seeds your future allocation of $ZEEV tokens, depending on the number of Masks staked, while maintaining freedom in transactions.
+
+Read more about Genesis Mask Staking here.
+Stake your Genesis Masks here.
+
+Items — The Arsenal for Your Success
+
+Zeeverse Items
+Chain: Arbitrum
+Standard: ERC-1155
+Marketplace: Opensea, Treasure
+
+Items in Zeeverse are not just possessions; they are potent totems of power and strategy. Categorized by rarity — Common, Rare, Epic, and Legendary — each item influences a Shaman’s stats and gameplay, with some even capable of hindering their path. Shamans might discover that some items hold special abilities or that some Equipment sets provide Set bonuses. The spectrum of items includes the following:
+
+Equipment
+A diverse range of gear providing various enhancements in the form of Stat buffs (i.e. Attack, Defense, etc.) and special abilities.
+
+Equipment can be placed into one of 5 slots in a Shaman's inventory — Mask, Top, Bottoms, Main Hand and Off-hand
+
+Until recently, equipment in Zeeverse could only be acquired by virtue of Loot Pods. But with the launch of The Forge, Zeeverse introduced a new system which opens the path for future Equipment to be acquired through Dungeons and Boss drops.
+
+Loot Pods
+Loot Pods are currently the main means to acquire in-game equipment. A variety of Loot Pods have so far been introduced in Zeeverse, including the Water, Fire, Jungle and Legendary Genesis Loot Pods, each containing distinct treasures and generous $VEE token allocations.
+
+
+Left to right: Genesis Fire Loot Pod, Legendary Loot Pod, Weekly Harvest Loot Pod
+Perhaps the most accessible at the moment are the Weekly Harvest Loot Pods, attainble through the Weekly Harvest events in Zeeverse where you compete with other players to retrieve an escaped flock of Corn Cobs from the Maze God's realm. Catch one— and you shall be rewarded with a Pod of your own.
+
+Weekly Harvest event schedule can be found here.
+
+Cosmetics
+Cosmetics are special Emotes and Victory poses that enable enhanced communication for Shamans. They don't provide any combat benefits but act as a fun interaction and a tasteful status symbol among your peers.
+
+Zee — Your Faithful Battle Companions
+
+Chain: Arbitrum
+Standard: ERC-721
+Marketplace: Opensea, Treasure
+
+Zee are not merely spirits; they are the embodiment of the dual nature of the Spirit Realm. As in-game battle companions, they represent both friendly and hostile entities. The progression of a Zee is intricately tied to the evolving narrative of Zeeverse.
+
+As you begin your journey, you will earn your first Zee Eggs by completing the tutorial. Throughout the game, your goal is to train your Zee in battles to improve their stats, power-up their Traits, and eventually bring them through Evolution.
+
+Currently, 10 types of Zee are available in-game. 9 of them are obtained through Zee Eggs dropped by the Dungeon boss, Seether, and the 10th is a special Llama Zee which dropped during the Curve: The 4th Dimension quest, and can now be acquire from other players on the marketplace.
+
+With the release of Beta, Zeeverse will see many more Zee enter into its realm. You may even like to know that so far over 70 types of Zee and their evolution concepts have been developed by the team.
+
+Lands — A Strange New World
+
+Strange New World — Teaser Trailer
+The imminent Land sale introduces a new chapter in the Zeeverse story. Influenced by the choices of Shamans, their Zees, and Genesis Masks, these Lands will bring new gameplay, economic structures, rewards, and social dynamics. Each Land is more than a habitat for Zees or a base for Tribes; it’s a cornerstone of prosperity and narrative evolution in Zeeverse.
+
+Zeeverse Land Sale is scheduled for December 7, 2023
+
+Read more about Zeeverse Lands here.
+
+$VEE— Your In-Game Currency
+
+The $VEE token in Zeeverse is the lifeblood of the in-game economy and the means to your advancements, empowering Shamans in various ways:
+
+Zee Leveling
+Zee Trait power-ups
+Staking in Zeeverse in-game bank
+Wagering in PvP duels
+Using $VEE to acquire essential items from NPC merchants. (coming soon!)
+Shamans come into possession of $VEE by completing Dungeons and acquiring them through Heists, or by opening Loot Pods. However, some Shamans choose visit MagicSwap or Curve Exchange to expedite this process and top-up their in-game balances.
+
+Read more about $VEE tokens in our Game Docs:
+https://whitepaper.zee-verse.com/economy/utility-tokens/usdvee
+
+Other Collections
+Soul Shards
+Soul Shards are Soulbound NFTs that act as your access pass to the Zeeverse Economy. You require a Soul Shard to enable your access to $VEE and asset withdrawals, PVP Game Modes, and (in the future) get access to in-game P2P trading features and Battle Pass rewards.
+
+Mint your Seasonal Soul Shard here.
+
+Ambassador Tokens
+Ambassador Tokens are Soulbound NFTs that enable the Zeeverse referral Program. As an Ambassdor, you can mint and airdrop free Refferal Tokens to your friends and community to grant them discount benefits and earn instant commission when they purchase Loot Pods, Soul Shards, or stake on-chain $VEE tokens.
+
+
+
+
 
 ## 老版本白皮书
 [
