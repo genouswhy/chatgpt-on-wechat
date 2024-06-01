@@ -1,7 +1,8 @@
 {
   "channel_type": "wx",
-  "model": "moonshot-v1-32k",
+  "model": "gpt-4o",
   "open_ai_api_key": "",
+  "open_ai_api_base": "https://yuce.lat/v1",
   "claude_api_key": "YOUR API KEY",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
@@ -11,7 +12,7 @@
   "single_chat_prefix": [
     ""
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "",
   "group_chat_prefix": [
     "@bot"
   ],
@@ -19,6 +20,7 @@
     "Stepn",
     "游戏攻略zee第八区"
   ],
+  "group_chat_in_one_session": ["游戏攻略zee第八区"],
   "image_create_prefix": [
     "画"
   ],
