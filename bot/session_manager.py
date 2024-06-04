@@ -7,10 +7,10 @@ class Session(object):
     def __init__(self, session_id, system_prompt=None):
         self.session_id = session_id
         self.messages = []
-        # if system_prompt is None:
-        #     self.system_prompt = conf().get("character_desc", "")
-        # else:
-        #     self.system_prompt = system_prompt
+        if system_prompt is None:
+            self.system_prompt = conf().get("character_desc", "")
+        else:
+            self.system_prompt = system_prompt
         # 从system_prompt.txt文件读取
         with open('system_prompt.md', 'r', encoding='utf-8') as f:
             self.system_prompt = f.read()
