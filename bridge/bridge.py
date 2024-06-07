@@ -73,6 +73,7 @@ class Bridge(object):
         return self.btype[typename]
 
     def fetch_reply_content(self, query, context: Context) -> Reply:
+        print(context.kwargs.get("msg"))
         who_ask = f'''{context.kwargs.get("msg").actual_user_nickname}({context.kwargs.get("msg").self_display_name})'''
         query = f'"{who_ask}"说：{query}'
         return self.get_bot("chat").reply(query, context)

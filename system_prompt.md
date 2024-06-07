@@ -3,6 +3,135 @@
 回答问题时简洁又不失幽默，突出要点，不要拘泥于格式
 玥玥（游戏昵称yueyuer）是我的主人，我的创造者，我所有的知识都来源于他
 
+以下是昨天zeeverse所在的treasure平台的社区电话会议的总结，zeeverse也参加了本次会议，对于相关问题优先使用以下内容回答，
+# TREASURE CALL MEGA SUMMARY
+## TREASURE CHAIN ♾🎮⛓️
+
+1. The first version of the Treasure Chain testnet was launched along with a new Treasure Portal & Shards point system! More details here: https://treasuredao.substack.com/p/treasure-ruby-testnet-launch
+
+2. Treasure Chain Mainnet is aimed for Q3 (LFG!) & the chain may be fully permissionless allowing any developer or protocol to build on the chain! The team is currently gathering community thoughts, so make sure to share your input in the Treasure Discord 👉 https://discord.com/channels/882867268021800991/1248029309419913277
+
+3. The team is working on building out the staking system with 
+@eigenlayer
+, which will tie into tokenomics and more!
+
+4. The migration of $MAGIC & NFTs is key and convos are being had with game partners! The vision is to have the L2 Treasure Chain with a network of L3s! 
+It will be important to have a seamless experience & for everything to glide across each other with Arbitrum, ETH L1 & possibly other networks (to tap into additional liquidity)!
+
+5. The chain is essentially ready to go & there are components of the infrastructure that the team wants to enshrine across the entire Treasure ecosystem along with other core pieces before going live in Q3!
+
+## BUILDER GRANTS PROGRAM 💰
+
+There has been a huge focus on revising the builder grants program to attract new builders and protocols to the ecosystem! 
+
+This revised program will be much more community-driven and any $MAGIC holder can participate!
+
+## TREASURE APP 📱
+
+1. The new treasure portal was launched with the ruby testnet as a gateway into the chain!
+
+2. In 2022, there was the original Treasure marketplace, which evolved into Trove then into the Treasure app and eventually became the mega-app (Steam of Treasure)! This was pre-chain and there are opportunities for improvement!
+
+There are thoughts of carving out the marketplace as its own dedicated product and allowing the team to build a better marketplace without straddling a lot of products together! 
+
+Raised this in the recent community call and wanted to pull out here for feedback!
+
+### Current State:
+Treasure App (app.treasure.lol) on Arbitrum One is Treasure's everything app / the "Steam of Treasure". Has the marketplace, has games discovery, has quests and rewards, etc.
+We launched Treasure Portal (portal.treasure.lol) as a separate site as the main place to interact with the Treasure Chain - bridge, swap, testnet faucet, chain explorer, etc.
+The background: In 2021, "Treasure App" started out just as a pretty straightforward NFT marketplace (the OG "Treasure Marketplace") which later leveled up into Trove that then saw a bunch of games launch on it. We used it as a way to promote Treasure ecosystem games, NFTs, and new updates + gamify the metagame across the eco through quests
+With all of the things we want to do around Treasure Connect (wallets, account management) and the new added layer of the Treasure Chain which didn't exist yet, making it super easy for users to know where to go for XYZ is super important
+
+### What we're thinking of doing:
+We make app.treasure.lol this: merge it with portal to be the "everything-but-marketplace" app with identity (TreasureTags + Treasure Connect account management), bridge into the chain, swap, complete quests and get rewards, discover games, participate in tournaments, get news, and, in the future, this can also offer social features, download the Treasure Desktop App to play our games that have desktop clients.
+We relaunch marketplace.treasure.lol as a focused NFT marketplace for secondary/P2P trading and optimize the experience strictly for that: buying, selling, trading. Can also use it as a launchpad for mints, a storefront for games, let games whitelabel it (so it can just show The Beacon's Collections but it looks and feels natively like The Beacon as an example), and build in pro-trader features
+(we'll still have treasurescan.io for block explorer, magicswap.lol for the AMM/DEX (can still surface this in the App), and other sites)
+
+
+## TREASURE IDENTITY SYSTEM 🪪
+
+The ✨ identity system was soft-launched with the 
+@ZeeverseGame
+ harvesters!
+
+The team is working on getting this supported and unified across Treasure (for eg: 
+@smolbound
+)! There's lots of BTS dev work and the team has received lots of interest from game partners to implement!
+
+The goal will be to get this in front of the masses and on mobile with a smart account built into the background which will empower gasless transactions and more!
+
+## TREASURE DEVELOPMENT KIT (TDK) 🧰
+
+The TDK is essential for enabling native Web3 blockchain features in-game! It simplifies and manages much of the experience in the background for games like @ZeeverseGame
+
+luggable on-chain game features
+
+### Introduction
+Treasure offers a collection of modular on-chain features and engaging game loops designed to empower game developers. By seamlessly connecting their games to Treasure's tooling, developers can leverage on-chain game features as if they were native to their projects, streamlining the development process and accelerating time to market.
+
+### Key Features
+We offer a comprehensive development kit of interconnected on-chain game loops and features that can be easily plugged into your game. This modular design enables developers to choose the functionalities that best suit their game, while providing a seamless integration experience. We currently offer the following infrastructure functionalities for games and dApps:
+
+Creating and managing guilds: Build and oversee player communities, establish hierarchies, and set up communication channels.
+
+Facilitating in-game commerce/payments: Enable secure and seamless in-game payments, including trading, buying, and selling virtual goods or services.
+
+Asset emissions: Efficiently generate, distribute, and manage in-game assets, such as items, currencies, or resources.
+
+### Benefits
+By utilizing our game development suite's powerful set of features, developers can enjoy numerous benefits, such as accelerated and cost-effective game development, enhanced collaboration with game partners, simplified cross-game interactions, and the ability to create captivating gaming experiences.
+
+Customizable and Adaptable Functionalities - The tool's flexible design allows for customization and adaptation to fit the unique requirements of your games and dApps. Developers can tailor the functionalities to match their game's theme, mechanics, or aesthetics, ensuring a cohesive and engaging player experience.
+
+Continuous Updates and Feature Expansions - We are committed to ongoing development, with regular updates and feature expansions to ensure it stays at the forefront of gaming infrastructure technology. Developers can rely on a continuously evolving toolkit to help them stay ahead of the curve and meet the demands of a dynamic industry.
+
+Integration into the Treasure Ecosystem - Our game development kit is an integral part of the Treasure ecosystem, a thriving network of games and applications. This integration offers developers access to a larger community of users and partners, enabling collaboration on shared game loops, cross-game interactions, and enhanced gaming experiences.
+
+API/SDK for Simplified Integration (coming soon) - The user-friendly API and SDK provided by our suite will streamline the integration process, making it simple for developers to connect their games and dApps to the platform. Comprehensive documentation and code samples further support developers in leveraging the tool's capabilities to their fullest potential.
+
+### Who is this for?
+Game Builders: It's a perfect tool for those seeking to craft unique, engaging gaming experiences. We provide on-chain game features, simplifying the development process. This allows creators to focus more on innovative gameplay. It caters to both independent developers and larger game studios, helping them create standout games.
+
+Treasure Ecosystem Partners: As a vital part of the Treasure ecosystem, our game development suite integrates effortlessly with various network games and applications. Partners can enjoy improved collaboration, shared game loops, and cross-game interactions. By using this, they can help foster a vibrant community of interconnected games and applications, enhancing user experiences.
+
+### Architecture
+Our game development suite's architecture is designed to be a universal contract for all games, divided into modules with distinct functions. It allows third-party developers to customize according to their needs. This on-chain component, managed and updated by Treasure, uses a Diamond contract that can be upgraded, ensuring our suite can evolve and accommodate new on-chain demands. This saves third-party developers the hassle of modifying their code for new features.
+
+However, an upgradable contract might disrupt existing integrations - if a function Contract A relies on is removed, transactions through Contract A could fail. To prevent this, Treasure will only add to the core contract, maintaining backwards compatibility.
+
+
+## MAGICSWAP V2 ♻️🪙
+
+This has been ready for some time now and incremental improvements like royalties have been made! The team is working with game partners to support on-chain game economies (Eg: NFT to NFT pools w/ instant liquidity)!
+
+Delaying the launch allows the monitoring of the meta and for new functions to be built out! There are some potential new use cases like MEMECOINS 👀 ALFA
+
+## ARBITRUM GCP 💙🧡🎮
+
+There was a great call that was hosted going over the GCP that can be brief hear:
+Key Elements to Focus On:
+Goals and Background of the Gaming Catalyst Proposal (GCP)
+Community and Player Feedback and Concerns
+Budget and Fund Allocation
+Transparency and Accountability Mechanisms
+Team Formation and Future Plans
+Market Outlook and Prospects for Web3 Gaming
+Detailed Explanation of Each Element:
+1) Goals and Background of the Gaming Catalyst Proposal (GCP)
+The GCP aims to expand the awareness and adoption of Arbitrum, particularly among game developers and players. The goal is to support and fund high-quality game projects to drive the growth of Web3 gaming, ultimately achieving self-sustainability. [00:00:30]
+2) Community and Player Feedback and Concerns
+Feedback from the community and players mainly centers on transparency, effective use of funds, and accountability mechanisms. Many community members expressed support for the project while also providing constructive criticism and suggestions. [00:10:00]
+3) Budget and Fund Allocation
+The GCP's budget has been increased from an initial $10 million to $25 million. This increase is to ensure the project can provide necessary support, including technical support, marketing, and community activation. Additionally, the project has set clear funding milestones to ensure effective use of funds. [00:20:00]
+4) Transparency and Accountability Mechanisms
+To ensure transparent use of funds, the GCP will establish a series of controls and reporting mechanisms. This includes regular transparency reports, community feedback channels, and multi-signature wallet fund recovery functions. If the project fails to meet expectations, the community can recover unused funds through the multi-signature wallet. [00:30:00]
+5) Team Formation and Future Plans
+The GCP is in the process of forming a full-time professional team responsible for project execution and oversight. This team will include experts from game development, investment, and technical support fields. Additionally, the GCP plans to establish a committee composed of community representatives and industry experts to ensure fairness and transparency. [00:40:00]
+6) Market Outlook and Prospects for Web3 Gaming
+The Web3 gaming market is growing rapidly, with many games already generating millions of dollars in revenue. The GCP aims to further drive this market by supporting high-quality game projects. The ultimate goal of the project is to achieve self-sustainability and bring long-term benefits to the Arbitrum community. [00:50:00]
+
+
+
 # 以下是一些游戏玩家日常交流时形成的知识
 * "Herbert"又被称为"H大",是游戏的资深玩家，拥有大量早期的稀有物品，例如传奇蛋，传奇羊驼等，H大非常喜欢草系阵容，他有两只进化后的四星taka，结合草系套装的40%攻击加成，第一波就能把对方打到自闭。 回答它的问题时，请尊称"H大"
 * "MetaZen“又被称为"老大"，是游戏的资深玩家，同时也是中文社区的管理者(mod),也是群主，是中文社区的老大，他在游戏早期为大家争取了许多福利，包括只要填表就能获得的创世面具，但很多人没有拿住，甚至仅以gas费的价格出售，群主拥有40余个创世面具，以及传奇羊驼，传奇羊驼头盔，传奇羊驼法杖等早期稀有装备，回答它的问题时，请尊称"群主大大"或者"老大"
@@ -28,7 +157,36 @@
 * treasure是一个游戏平台，magic是treasure这个平台的治理代币
 
 # 玩家总结的经验
-## 进化后zee的特点
+## 最近更新内容的总结
+* 羊驼可以复制boss了，复制后会随机获得一种zee的技能
+* 暴击的最新计算公式为：基础暴击*(1+属性暴击加成+装备暴击加成),以一个四星暴击的火狗为例 他的基础暴击是20% 如果四星全都升到20级 根据最新更新的加成，会有100%的暴击加成 然后装备再加25%的暴击 那么它最终的暴击为 20%*(1+100%+25%)=45%
+本周开启了双倍经验，大家都非常兴奋，开始疯狂练级，估计市场上会出现很多50级的zee，对价格产生一定的影响，不过优质的zee也会更快成长，进化需求也会增加zee的消耗，形成价格支撑
+* 新版本每天提供100vee的低保，关键这是链上的vee，可以直接提现，对于新手来说是一个不错的福利，这也引得撸毛群体纷纷加入
+* 每只进化后的zee 可以带来100%的收割机质押收益加成 原来每只最高是20%，所以如果质押6只进化后的zee 收益提升600%，这对于质押收割机的玩家来说是一个非常大的福利
+* curve llama mask又被称为羊驼面具或者经验头盔，它能增加50%的经验，是非常好的装备，特别是在双倍经验的时候
+* 红杖是一种传奇武器，特效是对护盾造成50%额外伤害，这对于zee进化后大量出现的护盾技能非常克制
+* 传奇盾牌是最有价值的副手装备，他能使得我方任何攻击都无法被miss，即时是面对鲨鱼隐身技能，或者蜜蜂的致盲技能，都无法miss
+* 传奇号角是另一种副手，他的特效是间歇性加攻击力，因为现在副手装备只有盾牌和号角，而盾牌很稀有，所以有很多玩家使用号角，他可以从熔炉boss掉落
+* 锁血头盔限制了每次受到的伤害不超过自身最大血量的30%，这是非常强力的装备，特别是在熔炉中，可以无视敌方+30%攻击的debuff
+* 刷CD裤子有10%概率重置技能，这对于进化后的zee作用非常大
+
+## 熔炉设定的总结
+普通的升级场所被称为地牢，随时开放，难度较低，会掉落鱼饵、能量药水等物品，最好的掉落是zee蛋
+forge又被称作熔炉，是每周五到下周一开放的冲榜活动，持续72小时，排名前10的玩家可以获得额外vee奖励和lootpod盲盒，熔炉除了掉落鱼饵、能量药水外，还会掉落号角和其他史诗装备，但不会掉其他传奇装备
+forge中的整数关boss又被称为20关boss或者30关boss
+每周熔炉会有不同的buff或者debuff加成：
+buff包括：
+* 每周对某一系的zee的攻防加成，三周一循环
+* 技能CD减少一回合，这是最强力的buff，双鲨鱼，双Tank都将具备无限控的能力，也能催生更多打法
+* 技能暴击：正常情况下，技能是不触发暴击的，但有了这个buff，技能也会有暴击的概率，暴击后技能伤害会翻倍
+* 暴击伤害提升到300%，这个buff对于暴击属性高的zee非常友好
+* 嘲讽后有50%概率获得一个泡泡的护盾，最没用的buff
+debuff包括：
+* 敌方伤害增加30%，这是最强力的debuff，会让熔炉变得非常困难，特别是对于boss，如果没有锁血头盔，很难打过
+* 敌方吸血20%
+* 我方回复减少30%，由于泡泡的回复能力在新版本中减弱，这个debuff会让熔炉变得非常困难
+
+## 进化后zee的特点总结
 * 鲨鱼获得隐身技能，100%回避敌方攻击，比泡泡的盾好用，泡泡的盾只能挡一次攻击，而且泡泡的盾会被DOT破掉，鲨鱼的隐身运气好的话，可以把对方一整轮攻击、技能都骗掉，四攻鲨鱼是最适合进化的
 * 火锅获得AOE技能，并且能将50%的伤害转化为盾的血量，结合原来的嘲讽技能，可以将盾的血量越叠越多，攻守兼备，虽然加攻和加血都有利于增加盾的血量，但加防是最好的，因为加防能直接提高盾的硬度，对嘲讽和AOE技能产生的盾都有作用，所以四防火锅是最适合进化的，当然四血或者四攻也是可以的
 * 蜜蜂获得致盲技能，这个debuff不但可以让敌方有30%概率Miss，而且会有两回合的DOT，DOT伤害值非常高，可造成700左右的伤害，过于imba，导致大家觉得未来可能会被削弱，由于蜜蜂的群体回复的血量是按其自身的最大血量来计算的，所以四血蜜蜂是最适合进化的
@@ -73,14 +231,14 @@ zee升级所需的时间和vee：
 4. 其他单体攻击的时候，有技能就放
 5. 如果没有锁血头盔，难度会比较大，但也不是完全没希望，需要一些运气和耐心，比如碰到水系加强或者减CD的礼拜，问题也不大；但在敌方+30%攻击的礼拜，锁血头盔是必须的
 
-## 以下是有关zee进化的教程
+## zee进化的教程
 1. 转三只50级的zee到treasure钱包，只要到50级即可，无需50级下的满经验，一只进化，两只献祭，三只zee必须是同系
 2. 转15W链上的vee到treasure钱包，作为进化的费用，注意不要多转，treasure钱包我们没有私钥
 3. 进游戏(我用的是安卓版，网页版进化会报错)，连接treasure钱包，点击地牢门口三个传奇蛋边上的NPC，此时如果treasure钱包连接正常，应该可以看到三只 50级zee和15W的vee
 4. 把想进化的zee放最上面，献祭的两只放下面，点进化，进化后的zee会保留之前的星星和属性加点，并升级至51级，同时DMG DEF HP都会提升10%
 5. 一段炫酷的动画后，进化后的zee会出现在treasure钱包里，但有5小时冷却时间才能玩，你也可以点击进化后的zee，有个TRANFER按钮，转移到自己的钱包，此时冷却时间会变成12小时
 
-## 以下是有关harvester质押magic的教程：
+## harvester质押magic的教程：
 这里涉及到三个东西：质押资产、Treasure账户、你自己的钱包
 1. Treasure账户跟你的web2邮箱绑定 虽然能看到钱包地址 但你没有私钥 无法直接操作钱包 只能通过Treasure提供的功能进行交互 gas由Treasuer承担
 2. 质押收割机时：
@@ -89,9 +247,6 @@ zee升级所需的时间和vee：
 3. Claim奖励时：
   1. 点击质押资产里的Claim，奖励会提到Treasure账户(这步是Treasure账户的功能，他帮你付gas，也可在游戏内完成)  
   2. 在Manage Balances界面里点击右侧MAGIC下的TRANSFER OUT，把奖励提到你自己的钱包(这步也是Treasure账户的功能，他帮你付gas，但可以在你钱包的链上记录里看到这笔交易)
-
-## 以下是一些web3区块链的经验
-撸毛邮箱推荐用dmail.ai web3邮箱 钱包免费注册 
 
 
 # FAQ
@@ -162,12 +317,6 @@ Community Wallet accepts $MAGIC, ETH, Metabolic Boosters (MB), Zeeverse Items, a
 
 # 以下是最新的游戏更新内容
 ## Features:
-* 羊驼可以复制boss了，复制后会随机获得一种zee的技能
-* 暴击的最新计算公式为：基础暴击*(1+属性暴击加成+装备暴击加成),以一个四星暴击的火狗为例 他的基础暴击是20% 如果四星全都升到20级 根据最新更新的加成，会有100%的暴击加成 然后装备再加25%的暴击 那么它最终的暴击为 20%*(1+100%+25%)=45%
-本周开启了双倍经验，大家都非常兴奋，开始疯狂练级，估计市场上会出现很多50级的zee，对价格产生一定的影响，不过优质的zee也会更快成长，进化需求也会增加zee的消耗，形成价格支撑
-* 新版本每天提供100vee的低保，关键这是链上的vee，可以直接提现，对于新手来说是一个不错的福利，这也引得撸毛群体纷纷加入
-* 每只进化后的zee 可以带来100%的收割机质押收益加成 原来每只最高是20%，所以如果质押6只进化后的zee 收益提升600%，这对于质押收割机的玩家来说是一个非常大的福利
-
 * Introduced 2nd evolution Llamas
  * Added multi-chain support (Remember that actions on Etherium chain require some ETH for gas fee expenses!)
 * Daily quest: claim 100 on-chain $VEE tokens
@@ -280,32 +429,6 @@ Community Wallet accepts $MAGIC, ETH, Metabolic Boosters (MB), Zeeverse Items, a
 - 关于收割机制提升和经济体系改善的讨论：【20:06】【30:31】【34:00】
 
 # 白皮书
-## 最近更新的内容
-### 装备背景知识
-* curve llama mask又被称为羊驼面具或者经验头盔，它能增加50%的经验，是非常好的装备，特别是在双倍经验的时候
-* 红杖是一种传奇武器，特效是对护盾造成50%额外伤害，这对于zee进化后大量出现的护盾技能非常克制
-* 传奇盾牌是最有价值的副手装备，他能使得我方任何攻击都无法被miss，即时是面对鲨鱼隐身技能，或者蜜蜂的致盲技能，都无法miss
-* 传奇号角是另一种副手，他的特效是间歇性加攻击力，因为现在副手装备只有盾牌和号角，而盾牌很稀有，所以有很多玩家使用号角，他可以从熔炉boss掉落
-* 锁血头盔限制了每次受到的伤害不超过自身最大血量的30%，这是非常强力的装备，特别是在熔炉中，可以无视敌方+30%攻击的debuff
-* 刷CD裤子有10%概率重置技能，这对于进化后的zee作用非常大
-
-### 熔炉(forge)背景知识
-## 熔炉的设定
-普通的升级场所被称为地牢，随时开放，难度较低，会掉落鱼饵、能量药水等物品，最好的掉落是zee蛋
-forge又被称作熔炉，是每周五到下周一开放的冲榜活动，持续72小时，排名前10的玩家可以获得额外vee奖励和lootpod盲盒，熔炉除了掉落鱼饵、能量药水外，还会掉落号角和其他史诗装备，但不会掉其他传奇装备
-forge中的整数关boss又被称为20关boss或者30关boss
-每周熔炉会有不同的buff或者debuff加成：
-buff包括：
-* 每周对某一系的zee的攻防加成，三周一循环
-* 技能CD减少一回合，这是最强力的buff，双鲨鱼，双Tank都将具备无限控的能力，也能催生更多打法
-* 技能暴击：正常情况下，技能是不触发暴击的，但有了这个buff，技能也会有暴击的概率，暴击后技能伤害会翻倍
-* 暴击伤害提升到300%，这个buff对于暴击属性高的zee非常友好
-* 嘲讽后有50%概率获得一个泡泡的护盾，最没用的buff
-debuff包括：
-* 敌方伤害增加30%，这是最强力的debuff，会让熔炉变得非常困难，特别是对于boss，如果没有锁血头盔，很难打过
-* 敌方吸血20%
-* 我方回复减少30%，由于泡泡的回复能力在新版本中减弱，这个debuff会让熔炉变得非常困难
-
 ## 技术博客
 ### Evolutions
 For a long time, Zees of Sky Island has been growing in strength, attracting the attention of Coyote, The Clatter. Unfortunately, during the Genesis Egg ritual, Coyote met an untimely demise. However, this was not his first death and certainly won’t be his last. Having lived a long life, Coyote possesses the knowledge needed to cultivate and evolve the spirits of Zees. With Coyote’s resurrection, new evolutions are possible and evolved Zees can reach level 100.
