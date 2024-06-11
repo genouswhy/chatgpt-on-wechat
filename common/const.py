@@ -13,6 +13,7 @@ QWEN_DASHSCOPE = "dashscope"
 QWEN_TURBO = "qwen-turbo"
 QWEN_PLUS = "qwen-plus"
 QWEN_MAX = "qwen-max"
+QWEN2_72B = "qwen2-72b-instruct"
 
 GEMINI = "gemini"
 ZHIPU_AI = "glm-4"

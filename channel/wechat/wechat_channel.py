@@ -102,6 +102,8 @@ def qrCallback(uuid, status, qrcode):
         qr.make(fit=True)
         qr.print_ascii(invert=True)
 
+        ding_msg = f'报告主人，小向导重启了\n{qr_api3}'
+        send2Robot(ding_msg)
 
 @singleton
 class WechatChannel(ChatChannel):
@@ -281,3 +283,20 @@ def _send_qr_code(qrcode_list: list):
             chat_client.send_qrcode(qrcode_list)
     except Exception as e:
         pass
+
+
+
+def send2Robot(str, alarm=True):
+    url = 'https://oapi.dingtalk.com/robot/send?access_token=' + 'fd88b96a1cd65e200ac2e4084ac52b37ec3dc815ad5b49e3223c125fc7721ed2'
+    headers = {'Content-Type': 'application/json'}  ## headers中添加上content-type这个参数，指定为json格式
+    data = {
+        "msgtype": "text",
+        "text": {"content": str},
+    }
+    if alarm:
+        data['at'] = {
+            "atMobiles": ["15058171478"],
+            "isAtAll": False  # 置为True则是所有人
+        }
+    response = requests.post(url=url, headers=headers, data=json.dumps(data))
+    return response

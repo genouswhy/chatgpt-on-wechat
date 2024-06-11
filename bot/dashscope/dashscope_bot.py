@@ -17,7 +17,8 @@ dashscope_models = {
     "qwen-turbo": dashscope.Generation.Models.qwen_turbo,
     "qwen-plus": dashscope.Generation.Models.qwen_plus,
     "qwen-max": dashscope.Generation.Models.qwen_max,
-    "qwen-bailian-v1": dashscope.Generation.Models.bailian_v1
+    "qwen-bailian-v1": dashscope.Generation.Models.bailian_v1,
+    # "qwen2-72b-instruct": dashscope.Generation.Models.qwen2_72b_instruct,
 }
 # ZhipuAI对话模型API
 class DashscopeBot(Bot):
@@ -84,7 +85,8 @@ class DashscopeBot(Bot):
         try:
             dashscope.api_key = self.api_key
             response = self.client.call(
-                dashscope_models[self.model_name],
+                # dashscope_models[self.model_name],
+                self.model_name,
                 messages=session.messages,
                 result_format="message"
             )

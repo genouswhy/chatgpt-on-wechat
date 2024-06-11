@@ -90,9 +90,7 @@ class MoonshotBot(Bot):
         try:
             headers = {
                 "Content-Type": "application/json",
-                # "Authorization": "Bearer " + self.api_key
-                "Authorization": "Bearer " + "sk-RKqvGCHsshhqOcbTBd2y0FZBmGJzQON14Rw93nLPOLmxX0lW"
-
+                "Authorization": "Bearer " + self.api_key
             }
             body = args
             body["messages"] = session.messages
